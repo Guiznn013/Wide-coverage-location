@@ -11,5 +11,5 @@
 </ul>
 <br>
 <br>
-<img src="" alt="wide-coverage-location-computer" />
-<img src="" alt="wide-coverage-location-mobile" />
+<img src="https://github.com/Guiznn013/Wide-coverage-location/blob/main/img/wide-coverage-location-computer-vision.png?raw=true" alt="wide-coverage-location-computer" />
+<img src="https://github.com/Guiznn013/Wide-coverage-location/blob/main/img/wide-coverage-location-mobile-vision.png?raw=true" alt="wide-coverage-location-mobile" />
